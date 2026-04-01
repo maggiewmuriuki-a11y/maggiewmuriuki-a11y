@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩🏽‍💻 Margaret Muriuki
 
-<!--
-**maggiewmuriuki-a11y/maggiewmuriuki-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Client Services Coordinator | IT Support | Operations
 
-Here are some ideas to get you started:
+I am a detail-oriented professional with experience in client support, administrative coordination, and IT service delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+* Client services & communication
+* Event coordination
+* CRM (HubSpot – learning)
+* Microsoft 365
+* IT support & troubleshooting
+
+---
+
+## 📂 Portfolio Projects
+
+### 👩🏽‍💼 Client Services Portfolio
+
+https://github.com/maggiewmuriuki-a11y/client-services-operations-portfolio
+
+### 🔐 IT Support Knowledge Base
+
+https://github.com/maggiewmuriuki-a11y/support-knowledge-base
+
+---
+
+## 📫 Contact
+
+* Email: [maggiewmuriuki@gmail.com](mailto:maggiewmuriuki@gmail.com)
+
+---
+
+💡 I am passionate about delivering efficient, organized, and client-focused support.
